@@ -12,9 +12,13 @@ _class:
  - invert
 -->
 
+---
+
 # Marp Action for GitHub
 
 Presentations to Webpages: Instantly!
+
+---
 
 ## What?
 
@@ -24,6 +28,8 @@ Presentations to Webpages: Instantly!
 
 This presentation is both a [website](https://alexsci.com/test-marp-action) and a [README.md](https://github.com/ralexander-phi/test-marp-action/blob/dev/README.md).
 
+---
+
 ## Why?
 
 Treat your presentation the same way you treat code.
@@ -31,6 +37,8 @@ Treat your presentation the same way you treat code.
 Use git to track changes. Pull requests to collaborate. Deploy to a webpage automatically.
 
 See a bug? Open an issue or pull request!
+
+---
 
 ## Setup
 
@@ -40,11 +48,14 @@ First, create a new repo [from the template repo](https://github.com/ralexander-
 
 ![](img/use-template.png)
 
+---
+
 ## Configure GitHub Pages
 
 [Setup publishing](https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#choosing-a-publishing-source).
 
 Remember the branch and URL shown.
+---
 
 ## Update Workflow
 
@@ -105,6 +116,8 @@ Known sites using this action are:
 - [Exploring agent based models](https://roiarthurb.github.io/Talk-UMMISCO_06-07-2020/) [(code)](https://github.com/RoiArthurB/Talk-UMMISCO_06-07-2020)
 
 Send a [pull request](https://github.com/ralexander-phi/test-marp-action) to get your site added.
+
+---
 
 ## Publish your slides
 
